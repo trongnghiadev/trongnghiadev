@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Trọng Nghĩa</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h1 align="center"> Fullstack SERN </h1>
-
-
 
 ## 📫 How to reach me:
 <p align="center">
