@@ -12,19 +12,6 @@
   </a>
 </p>
 
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/office/40/000000/react.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-
-</p>
 
 <table style="width:100%;">
   <tr>
@@ -39,21 +26,4 @@
     </td>
   </tr>
 </table>
-
-# Certificates:
-
-<p align="center">
-  <a href="https://fullstack.edu.vn/cert/bo7hd">
-    <img alt="Node & ExpressJS" title="Node & ExpressJS" src="Certificates/Node&ExpressJSCertificate.png" width="300px" />
-  </a>
-  <a href="https://fullstack.edu.vn/cert/i9tsh">
-    <img alt="JavaScript Basic" title="JavaScript Basic" src="Certificates/JavaScriptBasicCertificate.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://fullstack.edu.vn/cert/lj7vw">
-    <img alt="Ubuntu with WSL" src="Certificates/UbuntuwithWSLCertificate.png" width="300px" />
-  </a>
-</p>
 
